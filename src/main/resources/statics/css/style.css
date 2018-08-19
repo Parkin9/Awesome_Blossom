@@ -1,0 +1,13 @@
+body {
+    background: #333333;
+}
+
+#container {
+    background: lightgray;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    min-height: 800px;
+    border-radius: 15px;
+}

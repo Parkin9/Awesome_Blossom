@@ -1,2 +1,5 @@
-# Awesome_Blossom
-Java, Google Calendar API, Spring MVC, Spring Data JPA, Ajax, HTML, CSS, JavaScript
+# Awesome Blossom!
+
+The web application to management plants in home. When and how cultivate plants.<br/>
+The app is created for my Love.<br/><br/>
+It'll implement the Google Calendar API.
